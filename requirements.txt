@@ -2,3 +2,5 @@ requests
 beautifulsoup4
 pydantic
 lxml
+pandas
+pyyaml
